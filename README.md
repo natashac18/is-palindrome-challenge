@@ -6,7 +6,7 @@ This project contains a Python solution to the coding challenge, titled: Is Pali
 
 Write a method is_palindrome(word) that takes in a string word and returns True if the word is a palendrome, and False, otherwise.
 
-A palendrome is a word that reads the same backward as froward. For example: level, madam, civic, minim etc.
+A palendrome is a word that reads the same backward as forward. For example: level, madam, civic, minim etc.
 
 The aim is to solve this challenge specifically using the Python programming language.
 
