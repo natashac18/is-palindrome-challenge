@@ -1,8 +1,14 @@
 # is-palindrome-challenge
-This project contains a Python solution to the coding challenge, titled: Is Palindrome. 
 
+This project contains a Python solution to the coding challenge, titled: Is Palindrome. :nerd_face:
 
+###  Task:
 
+Write a method is_palindrome(word) that takes in a string word and and returns True if the word is a palendrome, and False, otherwise.
+
+A palendrome is a word that reads the same backward as froward. For example: level, madam, civic, minim etc.
+
+The aim is to solve this challenge specifically using the Python programming language.
 
 ## Built With
 
@@ -10,16 +16,18 @@ This project contains a Python solution to the coding challenge, titled: Is Pali
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+Get a local copy up and running.
+
 ### Prerequisites
 - A Code Editor of your choice
 
 ### To clone the repo to your local repository:
-`https://github.com/natashac18/DOM-Manipulation-Exercise.git`
 
-`cd DOM-Manipulation-Exercise`
+`git clone https://github.com/natashac18/is-palindrome-challenge.git`
 
-Run the code in your console.
+`cd is-palindrome-challenge`
+
+Open and run the code in your console.
 
 ## Author
 
@@ -37,7 +45,7 @@ If you like this project, please give it a :star: !
 
 ## Acknowledgements
 
-- Girlcode Team :heart:
+- [GirlCode](https://github.com/GirlCodeZA)
 - [Rumbie-Mudzie7](https://github.com/Rumbie-Mudzie7)
 
 
