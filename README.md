@@ -4,7 +4,7 @@ This project contains a Python solution to the coding challenge, titled: Is Pali
 
 ###  Task:
 
-Write a method is_palindrome(word) that takes in a string word and returns True if the word is a palendrome, and False, otherwise.
+Write a method is_palindrome(word) that takes in a string word and returns True if the word is a palindrome, and False, otherwise.
 
 A **palindrome** is a word that reads the same backward as forward. For example: level, madam, civic, minim etc.
 
